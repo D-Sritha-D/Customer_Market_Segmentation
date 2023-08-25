@@ -6,16 +6,12 @@ This project demonstrates applying unsupervised machine learning techniques to p
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
 
 ## Introduction
 
 Customer segmentation is a crucial task in marketing and business strategy. It involves categorizing customers into groups that share similar characteristics, enabling businesses to tailor their marketing efforts, improve customer experience, and optimize business strategies.
 
-This project explores different unsupervised machine learning algorithms, primarily focusing on clustering techniques such as K-means, Hierarchical Clustering, and DBSCAN. By applying these algorithms to customer data, we aim to uncover hidden patterns and segments within the customer base.
+This project explores different unsupervised machine learning algorithms, primarily focusing on clustering techniques such as K-means. We aim to uncover hidden patterns and segments within the customer base by applying these algorithms to customer data.
 
 ## Features
 
